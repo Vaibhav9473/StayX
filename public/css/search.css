@@ -1,0 +1,39 @@
+.search-wrapper {
+    position: relative;
+    width: 350px;        
+}
+
+
+.inp-input {
+    width: 100%;
+    border-radius: 30px;
+    padding: 0.6rem 5rem 0.6rem 1.2rem;  
+  
+}
+
+
+.btn-search {
+    position: absolute;
+    right: 10px;       
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #ff385c;
+    color: #fff;
+    border-radius: 25px;
+    padding: 0.4rem 1.2rem;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+
+.btn-search:hover {
+    background-color: #ff385c;
+    color: #fff;
+}
+
+
+.btn-search i {
+    margin-right: 5px;
+}
