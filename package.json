@@ -54,7 +54,7 @@
 
     "multer": "^2.0.2",
 
-    "multer-storage-cloudinary": "^3.0.1"
+    "multer-storage-cloudinary": "^4.0.0"
 
   }
 
